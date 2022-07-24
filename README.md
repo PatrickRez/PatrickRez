@@ -3,7 +3,7 @@
 
 - 🌱 Aprendendo Criar Landing Pages;
 - 🤔 interesse em Desenvolvimento Front-End;
-- ✍ Estudando Css, Typescript, Js, Figma;
+- ✍ Estudando Css,Html, Js, Figma;
 - 🎓 Analise e Desenvolvimento de Sistema;
 
 
