@@ -1,10 +1,10 @@
 ### Olá, eu sou o Patrick Rezende 😀
 
 
-- 🌱 Aprendendo Criar Landing Pages;
-- 🤔 interesse em Desenvolvimento Front-End;
-- ✍ Estudando Css,Html, Js, Figma;
-- 🎓 Analise e Desenvolvimento de Sistema;
+- 🌱 Aprendendo Front-End;
+- 🤔 interesse em Desenvolvimento Front-End (linguagem Java Script);
+- ✍ Estudando Engenheiro Front-End (EBAC) (Css,Html, Js, Figma, Arugar, React..);
+- 🎓 Analise e Desenvolvimento de Sistema (Cursando);
 
 
 
