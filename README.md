@@ -2,7 +2,7 @@
 
 
 - 🌱 Aprendendo Front-End;
-- 🤔 interesse em Desenvolvimento Front-End (linguagem Java Script);
+- 🤔 interesse em Desenvolvimento Front-End (linguagem JavaScript);
 - ✍ Estudando Engenheiro Front-End (EBAC) (Css,Html, Js, Figma, Arugar, React..);
 - 🎓 Analise e Desenvolvimento de Sistema (Cursando);
 
