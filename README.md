@@ -6,5 +6,4 @@
 -      (Html, Css, Js, Figma, React);
 -      (Jquery, Less, Sass, Grunt, Bootstrap, Responsivo);
 - 🎓 Analise e Desenvolvimento de Sistema (Cursando);
-- 🔖 Metodologia;
--     (SMACSS)
+
