@@ -7,7 +7,7 @@
 -      (Jquery, Less, Sass, Grunt, Bootstrap, Responsivo);
 -      (Scalable and Modular Architecture for CSS)
 - 🎓 Analise e Desenvolvimento de Sistema (Cursando);
-- Metodologia (conhecimento);
+- Metodologia/ Boas praticas (conhecimento);
 - SMACSS:
 -     (Scalable and Modular Architecture for CSS);
 - BEM:
