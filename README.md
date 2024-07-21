@@ -2,7 +2,7 @@
 
 
 - 🌱 Estudando o Front-End;
-- ✍ Estudando Engenheiro Front-End (EBAC);
+- ✍ Estudando Front-End (EBAC);
 -      (Html, Css, Js, Figma, React);
 -      (Jquery, Less, Sass, Grunt, Bootstrap, Responsivo);
 -      (Scalable and Modular Architecture for CSS)
